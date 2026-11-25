@@ -1,6 +1,6 @@
   # Hi, I'm Sachin Gugale 👋                                                                                   
                                                                                                                  
-    ### Java Full Stack & GenAI Developer | B.E. IT (Mumbai University, 2023–2026)                               
+    # Java Full Stack & GenAI Developer | B.E. IT (Mumbai University, 2023–2026)                               
                                                                                                                  
     I build end-to-end backend-driven web applications and Generative AI systems with **Java 21**, **Spring      
     Boot**, **Spring AI (RAG)**, **React.js**, and **PostgreSQL / MySQL**. Passionate about clean object-oriented
